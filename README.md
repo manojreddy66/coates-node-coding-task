@@ -1,1 +1,7 @@
-# coates-node-coding-task
+# Commands To Run the application
+```bash
+
+npm install
+yarn dev
+
+```
